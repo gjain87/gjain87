@@ -1,6 +1,6 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5MjE2MzAsIm5iZiI6MTcxMjkyMTMzMCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEyVDExMjg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxNmZkNjkxZmQxMTY2NWZlYzEyYTc1ZmMwYzEwNzM2MmI2ZGQxZTRlNTdkYTliNmZlNTYwYThlMDIyNjNiMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Qtb4PDb0srE0Vv2BNuL88B-TMfdHDj96yp-QQTJJ2wk)](https://gjain87.io)
 <h1 align="center">Hi 👋, I'm Gaurav Jain</h1>
-<h3 align="center">Software Engineer At Accenture with an year of experience in Spring Boot and Angular</h3>
+<h3 align="center">Software Engineer || Java || React || Full Stack </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjain87&label=Profile%20views&color=0e75b6&style=flat" alt="gjain87" /> </p>
 
