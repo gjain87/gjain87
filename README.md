@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjain87&label=Profile%20views&color=0e75b6&style=flat" alt="gjain87" /> </p>
 
-- 🔭 I’m currently working on [CrickBooze](https://github.com/gjain87/CricBooze)
+- 🔭 I’m currently working on [Gmail Assistant](https://github.com/gjain87/Smart-Email-Reply)
 
 - 👨‍💻 All of my projects are available at [https://gjain87.github.io/portfolio/](https://gjain87.github.io/portfolio/)
 
-- 💬 Ask me about **Spring Boot, Angular/React, Java**
+- 💬 Ask me about **Spring Boot, React, Spring AI, Micro Services, Security**
 
 - 📫 How to reach me **jgaurav117@gmail.com**
 
