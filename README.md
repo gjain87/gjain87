@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jgaurav117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jN9r1dVh2d_wAvreVNBqxYbx4EaVDn8T/view?usp=drive_link](https://drive.google.com/file/d/1jN9r1dVh2d_wAvreVNBqxYbx4EaVDn8T/view?usp=drive_link)
+- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1BE49gJd8pejs2KhCCG-QWl64XyXW_TB0/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Software engineer with a knack for coding and cracking jokes.**
 
