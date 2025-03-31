@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjain87&label=Profile%20views&color=0e75b6&style=flat" alt="gjain87" /> </p>
 
-- 🔭 I’m currently working on [Gmail Assistant](https://github.com/gjain87/Smart-Email-Reply)
+- 🔭 I’m currently working on [Banking Application](https://github.com/gjain87/BankingApplication)
 
 - 👨‍💻 All of my projects are available at [https://gjain87.github.io/portfolio/](https://gjain87.github.io/portfolio/)
 
